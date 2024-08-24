@@ -1,0 +1,8 @@
+[
+	{
+		"directry":"/Documents/utkarsh/video-to-ascii",
+		"command":"g++ -o a.out main.cpp -I/usr/include/opencv4 -L/usr/lib/x86_64-linux-gnu -lopencv_core -lopencv_imgproc -lopencv_highgui
+ ",
+		"file":"/Documents/utkarsh/video-to-ascii/main.cpp"
+	}
+]
